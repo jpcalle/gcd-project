@@ -1,1 +1,1 @@
-# Human Activity Recognition Using Smartphones **Tidy** Data Set Code Book
+# Human Activity Recognition Using Smartphones _Tidy_ Data Set Code Book
