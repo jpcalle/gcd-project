@@ -14,16 +14,16 @@ project/
 |   uci_har_dataset.txt (not in the repo, returned after running the script)
 |
 |___uci_har_dataset/ (this folder sold be downloaded from the project page, see link above)
-|   |    features.txt
-|   |    activity_labels.txt
-|   |
-|   |____train/
-|   |       X_train.txt
-|   |       y_train.txt
-|   |       subject_train.txt
-|   |
-|   |____test/
-|           X_test.txt
-|           y_test.txt
-|           subject_test.txt
+    |    features.txt
+    |    activity_labels.txt
+    |
+    |____train/
+    |       X_train.txt
+    |       y_train.txt
+    |       subject_train.txt
+    |
+    |____test/
+           X_test.txt
+            y_test.txt
+            subject_test.txt
 ```
